@@ -70,8 +70,8 @@ module.exports = {
       adapter: 'sails-mysql',
       host: 'localhost',
       port: 3306,
-      user: '',
-      password: '',
+      user: 'root',
+      password: 't0mw41ts4u2!',
       database: 'sails-rest-api',
       charset: 'utf8',
       collation: 'utf8_swedish_ci'
