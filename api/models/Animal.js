@@ -21,6 +21,12 @@ module.exports = {
     },tipo:{
       type:"string"
     },
+    latitude:{
+      type:"string"
+    },
+    longitude:{
+      type:"string"
+    },
     toJSON() {
       return this.toObject();
     }
